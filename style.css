@@ -35,7 +35,6 @@ body {
 
 .wrapper {
   min-width: 275px;
-  /* max-width: 650px; */
   margin: 0 auto;
 }
 
@@ -127,17 +126,13 @@ main h2 {
 .card {
   position: relative;
   display: flex;
-  /* object-fit: contain; */
 
-  /* border: 1px solid #23053A; */
   gap: 3.6rem;
   border-radius: 2rem;
   overflow: hidden;
 
   animation: bottom-up 850ms 250ms forwards;
   opacity: 0;
-
-
 }
 
 .card > h2 {
@@ -154,7 +149,6 @@ main h2 {
 
   animation: top-down 850ms 500ms forwards;
   opacity: 0;
-
 }
 
 .card img {
@@ -191,18 +185,6 @@ main h2 {
   }
   100%{
     transform: rotate(360deg);
-    /* transform: perspective(500px) translate3d(50px, -10px, 15px) rotate(360deg);; */
-
-  }
-}
-
-@keyframes rotate-left {
-  0%{
-    transform: rotate(0);
-  }
-  100%{
-    transform: rotate(-360deg);
-    /* transform: perspective(500px) translate3d(50px, -10px, 15px) rotate(360deg);; */
 
   }
 }

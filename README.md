@@ -11,16 +11,26 @@
 
 Desafio recriando layout mobile first do treinamento `Explorer` da @Rocketseat utilizando:
 
-- [x] Mobile First;
-- [x] Unidade de medida flexível;
-- [x] Variáveis css;
-- [x] Animações.
+- [x] Mobile First
+- [x] Unidade de medida flexível
+- [x] Variáveis css
+- [x] Animações em css
+- [x] Media Queries
+- [x] Grid
+
+
 
 [A versão final do projeto pode ser vista neste link.](https://dam450.github.io/rseat-mobile-first/)
 
 ## 🎞️ Layout
 
+### Mobile
+
 [![figma-preview]](https://www.figma.com/file/bmswjQHCOR1E2sqTanVTmb/Stage-03---Mobile-First-(Copy)?node-id=0%3A1&viewer=1)
+
+### Desktop
+
+[![figma-preview2]](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FpddZCuQIRLjk5dEHQ4L4YR%2FStage-03---Grid-com-anima%25C3%25A7%25C3%25B5es%3Fnode-id%3D0%253A1&viewer=1)
 
 ## 🧰 Tecnologias
 
@@ -41,6 +51,7 @@ Made by
 <!-- Images -->
 
 [figma-preview]: ./.github/figma.jpg 'Figma preview'
+[figma-preview2]: ./.github/figma2.jpg 'Figma preview'
 [img-preview]: ./.github/preview.jpg 'Figma preview'
 
 [langs]: https://img.shields.io/github/languages/count/dam450/space-shooter?style=plastic 'Linguagens utilizadas'

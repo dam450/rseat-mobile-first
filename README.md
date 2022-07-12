@@ -20,7 +20,7 @@ Desafio recriando layout mobile first do treinamento `Explorer` da @Rocketseat u
 
 ### Deploy
 
-[A versão final do projeto pode ser vista clicando aqui.](https://dam450.github.io/rseat-mobile-first/)
+[A versão final do projeto pode ser vista clicando aqui.](https://dam450.github.io/rseat-spacecream/)
 
 ## 🎞️ Layout
 

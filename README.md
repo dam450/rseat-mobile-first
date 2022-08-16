@@ -2,25 +2,25 @@
 
 [![license] ![v-techs]](#readme)
 
-[Descrição](#-descrição)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+[Description](#-description)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
 [Layout](#%EF%B8%8F-layout)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-[Tecnologias](#-tecnologias)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
-[Licença](#-licença) &nbsp;&nbsp;&nbsp;
+[Technologies](#-technologies)&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;
+[License](#-license) &nbsp;&nbsp;&nbsp;
 
-## 📌 Descrição
+## 📌 Description
 
-Desafio recriando layout mobile first do treinamento `Explorer` da @Rocketseat utilizando:
+Explorer's challenge recreating 'mobile first' layout from @Rocketseat training program using:
 
 - [x] Mobile First
-- [x] Unidade de medida flexível
-- [x] Variáveis css
-- [x] Animações em css
+- [x] Flexible measure units
+- [x] CSS variables
+- [x] CSS animations
 - [x] Media Queries
-- [x] Grid
+- [x] Grid layout
 
 ### Deploy
 
-[A versão final do projeto pode ser vista clicando aqui.](https://dam450.github.io/rseat-spacecream/)
+[The final version of the project can be seen by clicking here.](https://dam450.github.io/rseat-spacecream/)
 
 ## 🎞️ Layout
 
@@ -32,21 +32,24 @@ Desafio recriando layout mobile first do treinamento `Explorer` da @Rocketseat u
 
 [![figma-preview2]](https://www.figma.com/embed?embed_host=notion&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FpddZCuQIRLjk5dEHQ4L4YR%2FStage-03---Grid-com-anima%25C3%25A7%25C3%25B5es%3Fnode-id%3D0%253A1&viewer=1)
 
-## 🧰 Tecnologias
+## 🧰 Technologies
 
-Linguagens e ferramentas utilizadas:
+Languages used:
 
-[![HTML-Badge][html5] ![CSS-Badge][css3]](#-tecnologias)
+[![HTML-Badge][html5] ![CSS-Badge][css3]](#-technologies)
 
-## 📄 Licença
+## 📄 License
 
-Esse projeto está sob a licença MIT. Consulte o arquivo [`License.md`](./License.md) para mais detalhes.
+This project is under the MIT license. See the [`License.md`](./License.md) file for more details.
 
 ---
 
 Made by
 
 [![gh-tag]](https://github.com/dam450/)
+
+---
+[🌐 Versão em português](./README.pt-BR.md)
 
 <!-- Images -->
 
@@ -58,7 +61,7 @@ Made by
 [html5]: https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=fff&style=for-the-badge 'HTML5 badge'
 [css3]: https://img.shields.io/badge/css3-1572B6?logo=CSS3&logoColor=fff&style=for-the-badge 'CSS3 badge'
 [js]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge 'javascript badge'
-[v-techs]: https://img.shields.io/github/languages/count/dam450/rocket-sect?label=techs&logo=GitHub&style=plastic 'Tecnologias'
+[v-techs]: https://img.shields.io/github/languages/count/dam450/rocket-sect?label=Techs&logo=GitHub&style=plastic 'Technologies'
 [v-tag]: https://img.shields.io/github/v/tag/dam450/rocket-sect?color=555&label=tag&logo=GitHub&style=plastic 'GitHub Tag Version'
-[license]: https://img.shields.io/github/license/dam450/rocket-sect?color=blue&label=Licen%C3%A7a&logo=Conventional%20Commits&logoColor=fff&style=plastic 'License badge'
+[license]: https://img.shields.io/github/license/dam450/rocket-sect?color=blue&label=License&logo=Conventional%20Commits&logoColor=fff&style=plastic 'License badge'
 [gh-tag]: https://img.shields.io/badge/DAM450-181717?logo=GitHub&logoColor=fff&link=https://github.com/dam450/ "Dam450's GitHub Tag"
